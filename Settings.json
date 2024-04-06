@@ -1,0 +1,25 @@
+  {//edição padrão
+  "workbench.colorTheme": "Andromeda",
+  "kotlin.languageServer.enabled": false,
+  "kotlin.debugAdapter.enabled": false,
+  "files.autoSave": "afterDelay",
+  //edição de Hiago.dev
+  "editor.fontSize": 15,
+  "editor.lineHeight": 1.8,
+  "editor.rules":[80 , 120],
+  "workbench.startupEditor": "newUntitledFile", 
+  "editor.renderLineHighlight": "gutter",
+  "editor.fontLigatures": true,
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "editor.semanticHighlighting.enabled": false,
+  "breadcrumbs.enabled":false,
+  //config importantes
+  "workbench.activityBar.location": "hidden",
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.vertical": "hidden",
+  "workbench.statusBar.visible": false,
+  "window.commandCenter": false,
+  "window.menuBarVisibility": "compact",
+  "workbench.layoutControl.enabled": false
+}
